@@ -11,10 +11,10 @@ const defaultConfig = {
     },
     jump_prefix: 'ctrl+alt',
     permutation_modifier: 'shift',
-    maximize: 'cmd+enter'
+    maximize: 'super+enter'
   },
   showIndicators: true,
-  indicatorPrefix: '^⌥',
+  indicatorPrefix: 'window ',
   indicatorStyle: {
     position: 'absolute',
     top: 0,
