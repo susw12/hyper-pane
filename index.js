@@ -11,7 +11,7 @@ const defaultConfig = {
     },
     jump_prefix: 'ctrl+alt',
     permutation_modifier: 'shift',
-    maximize: 'super+enter'
+    maximize: 'meta+enter'
   },
   showIndicators: true,
   indicatorPrefix: 'window ',
